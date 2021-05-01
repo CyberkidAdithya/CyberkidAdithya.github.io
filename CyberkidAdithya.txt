@@ -8,6 +8,7 @@ Hey There! I am Adithya ES, a computer science student from India.<!-- laglaglag
 <p>And since I make a lot of mistakes, I spend most of my day in Stackoverflow, Reddit or Github.<br><br><br> I keep my Study notes public so that people all around the world can access it and up-skill themselves. I am a fan of FOSS and I believe knowledge and software should be made accessible to all, so that people can learn from it and then we all can grow together as a community. I am attaching my notes and projects in here so that you too can access it from now on. <a href="https://drive.google.com/drive/folders/16BwZxgL6LuEdKHOmD-tVFIq1KN5vh_iL?usp=sharing"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <p> Feel free to follow me on other social media platforms (or maybe professional CP platforms :P) if you wish to, links are provided here: <br> <a href="https://codeforces.com/profile/codinghermit05">Codeforces</a> <br> <a href="https://www.codechef.com/users/cyberkid05">Codechef</a> and <br> <a href="https://twitter.com/CyberkidA">Twitter</a>.</p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="thehappymentorkid@gmail.com">Email</a>.
+In case, I don't respond to your queries on these websites,<!-- slightdelayhere-->, feel free to send me an email at <!-- longlonglongcomment --><a href="thehappymentorkid@gmail.com">Email</a>.
+That's the fastest way by which you can reach me.
 
 <p>Cheers!</p>
